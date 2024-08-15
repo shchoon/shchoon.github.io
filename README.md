@@ -1,1 +1,3 @@
-hello world
+# About
+
+Hello! I am seonghoon Cho!
